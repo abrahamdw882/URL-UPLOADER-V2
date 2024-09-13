@@ -1,0 +1,13 @@
+{
+  "name": "my-website",
+  "version": "1.0.0",
+  "description": "A website that uploads images to Catbox and displays them.",
+  "scripts": {
+    "start": "http-server public"
+  },
+  "dependencies": {
+    "http-server": "^14.0.0"
+  },
+  "author": "Abraham Dwamena",
+  "license": "MIT"
+}
